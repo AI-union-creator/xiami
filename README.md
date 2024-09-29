@@ -1,2 +1,2 @@
-# xiami
-My personal repository
+### xiami / README.md
+# about me
